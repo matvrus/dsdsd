@@ -1,0 +1,3 @@
+[[rules]]
+regex = "API[_-]?KEY"
+tags = ["api-key", "token" ]
